@@ -1,0 +1,15 @@
+C:\Code\repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.exe
+C:\Code\repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.deps.json
+C:\Code\repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.runtimeconfig.json
+C:\Code\repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.dll
+C:\Code\repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.pdb
+C:\Code\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.AssemblyInfoInputs.cache
+C:\Code\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.AssemblyInfo.cs
+C:\Code\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Code\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.sourcelink.json
+C:\Code\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.dll
+C:\Code\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\refint\OperatorExercise.dll
+C:\Code\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.pdb
+C:\Code\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.genruntimeconfig.cache
+C:\Code\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\ref\OperatorExercise.dll
